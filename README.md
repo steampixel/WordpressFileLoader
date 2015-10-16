@@ -6,6 +6,10 @@ Easily add your custom PHP files directly into your wordpress using shortcodes.
 
 * [phpfile path="path/to/your/file.php"]
 
-## Security
+##Testing
+
+* To test the phpfile shortcode you can use the following configuration: [phpfile path="wp-contents/plugins/sp-fileloader/tests/test.php"]
+
+## Security Warnings
 
 This plugin can be used to include php files directly into your wordpress. Including php files can be dangerous and maybe harm your wordpress or your server. Only include php files you trust. Remote inclusion is not possible.
