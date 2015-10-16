@@ -1,7 +1,7 @@
 <?PHP
 
 /**
- * Plugin Name: SteamPixel PHP file loader
+ * Plugin Name: SteamPixel file loader
  * Plugin URI: http://www.steampixel.de
  * Description: PHP File Loader
  * Version: 1.1
