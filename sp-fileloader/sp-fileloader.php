@@ -33,13 +33,13 @@ function sp_php_file_loader($atts){
 			
 		}else{
 		
-			$html.= 'Path not found!"]';
+			$html.= 'Path not found!';
 			
 		}
 		
 	}else{
 		
-		$html.= 'Path is emty! Use [phpfile path="path/to/file.php"]';
+		$html.= 'Path is emty! Use [phpfile path="path/to/file.php';
 		
 	}
 	
