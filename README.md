@@ -2,7 +2,7 @@
 
 Easily add your custom PHP files directly into your wordpress using shortcodes.
 
-## Shortcode:
+## Shortcode
 
 * [phpfile path="path/to/your/file.php"]
 
