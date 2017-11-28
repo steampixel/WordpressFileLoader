@@ -6,7 +6,7 @@ Easily add your custom PHP files directly into your wordpress using shortcodes.
 
 * [phpfile path="path/to/your/file.php"]
 
-##Testing
+## Testing
 
 * To test the phpfile shortcode you can use the following configuration: [phpfile path="wp-content/plugins/sp-fileloader/tests/test.php"] This should output: "PHP file loader is working :-)"
 
